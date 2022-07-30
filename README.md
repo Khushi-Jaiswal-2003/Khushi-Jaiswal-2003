@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Jaiswal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+
+# 🙋‍♀️About me
+<h3 align="left">A passionate software developer from India</h3>
 
 <img align="right" alt = "Coding" width = "400" src= "https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
 
@@ -13,15 +15,16 @@
 
 - 📫 How to reach me **khushijaiswalishere@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# 🔗Connect with me
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-<a href="https://linkedin.com/in/khushi-jaiswal2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-jaiswal2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khushi_here_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_here_19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/decoder_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="decoder_200" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khushi_is_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khushi_is_here" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khushi_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushi_jaiswal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@khushi587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khushi587" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itskhushi/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itskhushi/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khushi-jaiswal2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-jaiswal2003" height="50" width="60" /></a>
+<a href="https://www.codechef.com/users/khushi_here_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_here_19" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/decoder_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="decoder_200" height="50" width="60" /></a>
+<a href="https://codeforces.com/profile/khushi_is_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khushi_is_here" height="50" width="60" /></a>
+<a href="https://www.leetcode.com/khushi_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushi_jaiswal" height="50" width="60" /></a>
+<a href="https://www.hackerearth.com/@khushi587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khushi587" height="50" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itskhushi/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itskhushi/profile" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

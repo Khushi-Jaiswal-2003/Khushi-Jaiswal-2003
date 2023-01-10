@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 📫 How to reach me **khushijaiswalishere@gmail.com**
-
 # 💻Coding Profile's
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">

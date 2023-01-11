@@ -28,7 +28,7 @@
     </a>
 </p>
  
- # 🔗Connect with me"
+ # 🔗Connect with me
  <div align="left">
   <a href="https://www.linkedin.com/in/khushi-jaiswal2003/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /></a><a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="50" alt="discord logo"  /></a><a href="mailto: pkhushi6265@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /></a>
  

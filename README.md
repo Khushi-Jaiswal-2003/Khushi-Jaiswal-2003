@@ -21,7 +21,7 @@
  
   # 📈Streak Stat
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&theme=highcontrast&ring=10CCDD&fire=10CCDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
  
  # 🔗Connect with me
  <div align="left">

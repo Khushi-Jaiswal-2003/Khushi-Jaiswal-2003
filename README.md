@@ -21,13 +21,14 @@
  
   # 📈Streak Stat
  [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&count_private=true&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000&fire=ECE351&ring=FF0000&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
- 
+
  # 🔗Connect with me
  <div align="left">
   <a href="https://www.linkedin.com/in/khushi-jaiswal2003/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /></a><a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="50" alt="discord logo"  /></a><a href="mailto: pkhushi6265@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /></a>
  
  </div>
 
-
-<!--  # 📊Activity Graph
- [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi-jaiswal-2003&theme=highcontrast)](https://github.com/khushi-jaiswal-2003/github-readme-activity-graph) -->
+<!--  
+# 📊Activity Graph
+ [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi-jaiswal-2003&theme=highcontrast)](https://github.com/khushi-jaiswal-2003/github-readme-activity-graph)
+ -->

@@ -21,7 +21,7 @@
  
   # 📈Streak Stat
 <!--  [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&count_private=true)](https://git.io/streak-stats) -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&countprivate=true&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000&fire=ECE351&ring=FF0000&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&count_private=true&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000&fire=ECE351&ring=FF0000&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
 
   # 📈 Graph
 

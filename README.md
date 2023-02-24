@@ -28,7 +28,7 @@
 
   # 📈 Graph
 
-[![Khushi's Jaiswal GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-jaiswal-2003&theme=react-dark&count_private=true)](https://github.com/Khushi-jaiswal-2003/github-readme-activity-graph)
+[![Khushi's Jaiswal GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-jaiswal-2003&theme=react-dark)](https://github.com/Khushi-jaiswal-2003/github-readme-activity-graph)
  
  # 🔗Connect with me
  <div align="left">

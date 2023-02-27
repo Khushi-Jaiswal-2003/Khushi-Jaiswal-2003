@@ -21,14 +21,14 @@
  
   # 📈Streak Stat
 <!--  [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&theme=highcontrast&hide_border&countprivate=true)](https://git.io/streak-stats) -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=Khushi-jaiswal-2003&theme=dark&border=000000&background=000000&ring=11B3AC&countprivate=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Khushi-jaiswal-2003&theme=dark&border=000000&background=000000&ring=11B3AC)](https://git.io/streak-stats)
  
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-jaiswal-2003&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000&fire=ECE351&ring=FF0000&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD)](https://git.io/streak-stats) -->
 
 
   # 📈 Graph
 
-[![Khushi's Jaiswal GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-jaiswal-2003&theme=github-compact&countprivate=true)](https://github.com/khushi-jaiswal-2003/github-readme-activity-graph)
+[![Khushi's Jaiswal GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-jaiswal-2003&theme=github-compact)](https://github.com/khushi-jaiswal-2003/github-readme-activity-graph)
  
 <!-- [![Khushi's Jaiswal GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-jaiswal-2003&theme=react-dark)](https://github.com/Khushi-jaiswal-2003/github-readme-activity-graph) -->
  

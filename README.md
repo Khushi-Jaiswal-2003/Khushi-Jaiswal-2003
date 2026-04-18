@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-jaiswal-2003&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-jaiswal-2003" /> </p>
 
-- 🌱 I’m currently learning **Django, Machine Learning**
+- 🌱 I’m focusing on **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [Github (private)](Github (private))
 
